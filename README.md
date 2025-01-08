@@ -10,6 +10,10 @@ Manajemen user dan grup merupakan bagian penting dari pemeliharaan keamanan sebu
    ![image](https://github.com/user-attachments/assets/b57b384e-de79-4197-8da1-7c569ac33961)
 
    Untuk mengubah permission, dapat menggunakan perintah chmod dengan sintaks -> chmod (option) filename
-   ![image](https://github.com/user-attachments/assets/3ec10c0c-df7c-4d2b-b2c1-6b3ec7fc270e)   
+   ![image](https://github.com/user-attachments/assets/3ec10c0c-df7c-4d2b-b2c1-6b3ec7fc270e)
+
+**Perintah yang digunakan untuk menejemen user**  
+![image](https://github.com/user-attachments/assets/0e58dbd6-5476-4b9a-b18d-baa3d4e673e9) 
+
 
 
